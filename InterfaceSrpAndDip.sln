@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSrpAndDip", "InterfaceSrpAndDip\InterfaceSrpAndDip.csproj", "{913594C7-CCEA-4FF2-BB76-BA01EF65912F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{913594C7-CCEA-4FF2-BB76-BA01EF65912F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913594C7-CCEA-4FF2-BB76-BA01EF65912F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913594C7-CCEA-4FF2-BB76-BA01EF65912F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913594C7-CCEA-4FF2-BB76-BA01EF65912F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14D30B1B-BC0D-4F3A-A711-112A9ABD3E31}
+	EndGlobalSection
+EndGlobal
